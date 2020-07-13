@@ -1,4 +1,4 @@
-package com.android.notes.base.adapter;
+package com.android.notes.widgets.recycleview.adapter;
 
 import android.content.Context;
 import android.graphics.Bitmap;
