@@ -4,7 +4,8 @@ import androidx.fragment.app.Fragment
 
 /**
  * Androidx
- * ViewPager2+FragmentStateAdapter+Fragment 懒加载
+ *
+ * ViewPager2 + FragmentStateAdapter + Fragment 实现懒加载
  */
 abstract class LazyFragment : Fragment() {
 

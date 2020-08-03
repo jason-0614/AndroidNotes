@@ -6,7 +6,8 @@ import androidx.viewpager2.adapter.FragmentStateAdapter
 
 /**
  * Androidx
- * ViewPager2+FragmentStateAdapter+Fragment 懒加载
+ *
+ * ViewPager2 + FragmentStateAdapter + Fragment 实现懒加载
  */
 open class LazyFragmentStateAdapter(
     activity: FragmentActivity,

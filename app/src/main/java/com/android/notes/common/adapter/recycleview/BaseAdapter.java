@@ -1,4 +1,4 @@
-package com.android.notes.widgets.recycleview.adapter;
+package com.android.notes.common.adapter.recycleview;
 
 import android.content.Context;
 import android.view.ViewGroup;
